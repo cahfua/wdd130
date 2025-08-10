@@ -16,6 +16,8 @@
 
 body {
     font-family: var(--body-font);
+    margin: 0;
+    padding: 0;
     color: #000000;
     background-color: white;
 }
@@ -197,7 +199,7 @@ footer {
     background-color: var(--secondary-color);
     color: white;
     padding: 1rem;
-    width: 840px;
+    max-width: var(--site-max-width);
     margin: 0 auto;
 }
 
