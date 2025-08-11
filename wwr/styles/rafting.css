@@ -196,7 +196,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: var(--secondary-color);
+    background-color: #005f66;
     color: white;
     padding: 1rem;
     max-width: var(--site-max-width);
